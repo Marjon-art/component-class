@@ -10,6 +10,7 @@ export class ShopItemClass extends Component {
         price: 399,
         currency: '£'
     };
+    
 render() {
      return (
   <div className="main-content">
